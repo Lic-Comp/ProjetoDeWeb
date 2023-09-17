@@ -14,7 +14,7 @@
 
 ## 📍 Desenvolvimento do Sistema
 
-#### Para desenvolver o Front-end, foi utilizado o framework [Angular](https://angular.io/docs) e o conectamos com o [Firebase](https://angular.io/docs). 
+#### Para desenvolver o Front-end, foi utilizado o framework [Angular](https://angular.io/docs) e o conectamos com o [Firebase](https://firebase.google.com/?hl=pt). 
 #### O Firebase é um conjunto de serviços de computação em nuvem de back-end e plataformas de desenvolvimento de aplicativos fornecidos pela Google. Ele hospeda bancos de dados, serviços, autenticação e integração para uma variedade de aplicativos 
 
 #### Isso facilitou o desenvolvimento do sistema, pois não houve necessidade de desenvolver o back-end, apenas conectar o front-end ao projeto criado no firebase, e ele se encarregaria de fazer a autenticação e os CRUDs.
