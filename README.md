@@ -23,7 +23,7 @@
 
 #### É importante ressaltar que este projeto foi desenvolvido por programadores iniciantes. Então, fique a vontade para contribuir.
 
-## 📍 Colaboradores
+## 👥 Colaboradores
 
 ### [Welliton Soares](https://github.com/welsoly).
 ### [Jean Ramos](https://github.com/JeanRamos2001).
