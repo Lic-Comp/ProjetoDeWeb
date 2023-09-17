@@ -1,0 +1,15 @@
+<div class="main-content">
+  <div class="intro">
+    <h1>Supermercados MegaMart</h1> <BR>
+    <p>Aproveite hoje mesmo, todas as novidades e vantagens que o MegaMart tem pra você.</p>
+  </div>
+  <div class="featured-products">
+    <h2>Produtos em Destaque</h2>
+    <div class="product-list">
+      <div class="product-item" *ngFor="let p of produtos">
+        <img src="{{ p.imagem }}" alt="{{ p.nome }}">
+        <h3>{{ p.nome }}</h3>
+      </div>
+    </div>
+  </div>
+</div>
